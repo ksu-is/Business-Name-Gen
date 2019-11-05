@@ -11,4 +11,4 @@ With our software being based off a passowrd generator, the user will be able to
 - def()
 - for loops
 - return()
-- print statemetns
+- print statements
