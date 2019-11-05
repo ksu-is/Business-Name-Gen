@@ -7,8 +7,8 @@ https://github.com/ksu-is/password-generator
 # How Program Will Operate
 With our software being based off a passowrd generator, the user will be able to input specific words/characters that the owner would like to be included in their company name. From that point, the generator will then run and generate a business name that includes the key words that were previously inputted. If the name is not to the owner's satisfaction, they are able to restart the system and allow the program to generate another name.
 
-# Sample Code
-- def ()
-- for_in_()
-- return
-- print
+# Code Terminology 
+- def()
+- for loops
+- return()
+- print statemetns
