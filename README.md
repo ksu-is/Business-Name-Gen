@@ -12,3 +12,4 @@ With our software being based off a passowrd generator, the user will be able to
 - for loops
 - return()
 - print statements
+- if, else statements
