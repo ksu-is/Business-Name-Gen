@@ -1,7 +1,7 @@
 # Business-Name-Gen
 This software will be in the form of a generator for entrepenuers looking for names for their business. When starting a company, it can be very difficult and time consuming when trying to think of a name for your business. This program will allow companies to put in any key words that they feel should be in the name and from that, generate a full company name that will be to the liking of the owner.
 
-# Similar Project
+# Code Reference
 https://github.com/ksu-is/password-generator
 
 # How Program Will Operate
