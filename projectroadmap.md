@@ -1,1 +1,3 @@
-
+- [x] Create Repository - Ayo
+- [x] Create readme - Ayo
+- [ ]  
