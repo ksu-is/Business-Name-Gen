@@ -1,3 +1,12 @@
 - [x] Create Repository - Ayo
-- [x] Create readme - Ayo
-- [ ]  
+- [x] Create readme - Anthony
+- [X] Find code reference - Ayo
+- [X] Add license to file - Ayo
+- [X] Create projectroadmap.md file - Anthony
+- [ ]  Create code 
+- [ ] Test code and make sure everything is correctly done
+- [ ] Troubleshoot problems (if needed)
+- [ ] Be sure file is recognized in Python IDLE
+- [ ] Run final test
+- [ ] Create powerpoint 
+- [ ] Submit project
