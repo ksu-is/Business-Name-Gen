@@ -4,10 +4,10 @@
 - [X] Find code reference - Ayo
 - [X] Add license to file - Ayo
 - [X] Create projectroadmap.md file - Anthony
-- [X]  Create code 
-- [ ] Test code and make sure everything is correctly done
+- [X]  Create code - Ayo & Anthony
+- [X] Test code and make sure everything is correctly done - Ayo
 - [ ] Troubleshoot problems (if needed)
 - [ ] Be sure file is recognized in Python IDLE
 - [ ] Run final test
-- [ ] Create powerpoint 
+- [X] Create powerpoint - Anthony
 - [ ] Submit project
