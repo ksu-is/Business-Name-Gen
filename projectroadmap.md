@@ -6,7 +6,9 @@
 - [X] Create projectroadmap.md file - Anthony
 - [X]  Create code - Ayo & Anthony
 - [X] Test code and make sure everything is correctly done - Ayo
-- [ ] Troubleshoot problems (if needed)
+- [X] Add Splash Screen PPT - Anthony
+- [ ] Troubleshoot problems (if needed) - Ayo
+- [X] Go through Readme and make updated changes to correspond with system - Anthony
 - [ ] Be sure file is recognized in Python IDLE
 - [ ] Run final test
 - [X] Create powerpoint - Anthony
