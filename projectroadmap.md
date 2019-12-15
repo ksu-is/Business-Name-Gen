@@ -7,9 +7,9 @@
 - [X]  Create code - Ayo & Anthony
 - [X] Test code and make sure everything is correctly done - Ayo
 - [X] Add Splash Screen PPT - Anthony
-- [ ] Troubleshoot problems (if needed) - Ayo
+- [X] Troubleshoot problems (if needed) - Ayo
 - [X] Go through Readme and make updated changes to correspond with system - Anthony
-- [ ] Be sure file is recognized in Python IDLE
-- [ ] Run final test
+- [X] Be sure file is recognized in Python IDLE - Ayo
+- [X] Run final test - Ayo & Anthony
 - [X] Create powerpoint - Anthony
-- [ ] Submit project
+- [X] Submit project - Anthony & Ayo
