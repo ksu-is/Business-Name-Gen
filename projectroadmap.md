@@ -11,5 +11,5 @@
 - [X] Go through Readme and make updated changes to correspond with system - Anthony
 - [X] Be sure file is recognized in Python IDLE - Ayo
 - [X] Run final test - Ayo & Anthony
-- [X] Create powerpoint - Anthony
+- [X] Create powerpoint splash page - Anthony
 - [X] Submit project - Anthony & Ayo
